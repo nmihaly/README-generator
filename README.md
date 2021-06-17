@@ -3,8 +3,8 @@
           ## Description
           k
 
-          ## Table of Contents
-          - [Description](#description)
+## Table of Contents
+  - [Description](#description)
           - [Installation](#installation)
           - [Usage](#usage)
           - [License](#license)
@@ -12,7 +12,7 @@
           - [Tests](#tests)
           - [Questions](#questions)
 
-          ## Installation
+ ## Installation
           k
 
           ## Usage
