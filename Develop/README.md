@@ -1,45 +1,39 @@
-#<align="center"> k
 
-          ## Description
-          k
+#<h1 align="center"> README-generator</h1>
 
-          ## Table of Contents
-          - [Description](#description)
-          - [Installation](#installation)
-          - [Usage](#usage)
-          - [License](#license)
-          - [Contributing](#contributing)
-          - [Tests](#tests)
-          - [Questions](#questions)
+## Description
+Create a README.md using Node.js
 
-          ## Installation
-          k
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-          ## Usage
-          k
+## Installation
+inquirer, path
 
-          ## License
-          ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-          <br />
-          THis application is covered by the MIT license.
+## Usage
+Once you have filled out the code using javascript, run node index.js to run the application. You will be prompted several questions to fill out the README.md. Once you have answered all the questions a README.md will be generated!
 
-          ## Contributors
-          k
+## License
+![badge](https://img.shields.io/badge/license-MIT-red)
+<br />
+This application is covered by the MIT license.
 
-          ## Tests
-          false
+## Contributors
+Nicholas Mihaly
 
-          ## Questions
-          k
-          <br />
-          Find me on GitHub: k
-          <br />
-          You can email me at: k
-          <br />
+## Tests
+false
 
-         
-          
-          
-        
-          
-        
+## Questions
+No
+<br />
+Find me on GitHub: https://github.com/nmihaly/README-generator
+<br />
+You can reach me at: nickmihaly@gmail.com
+<br />                                 

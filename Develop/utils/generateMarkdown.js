@@ -1,6 +1,8 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) { }
+function renderLicenseBadge(license) {}
+  //data.license.string('MIT') =
+ 
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -19,13 +21,13 @@ function generateMarkdown(data) {
 ${data.description}
 
 ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Installation
 ${data.installation}
@@ -34,7 +36,7 @@ ${data.installation}
 ${data.usage}
 
 ## License
-![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+![badge](https://img.shields.io/badge/license-${data.license}-red)
 <br />
 This application is covered by the ${data.license} license.
 
