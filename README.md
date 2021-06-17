@@ -32,7 +32,6 @@ Nicholas Mihaly
 false
 
 ## Questions
-No
 <br />
 Find me on GitHub: https://github.com/nmihaly/README-generator
 <br />
