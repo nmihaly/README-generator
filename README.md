@@ -3,7 +3,6 @@
 
 ## Description
 Create a README.md using Node.js
-<iframe src="https://drive.google.com/file/d/14MysTD9jLQr9w7FYvXo4ZJnDZwKvYElv/preview" width="640" height="480"></iframe>
 
 ## Table of Contents
 * [Description](#description)
