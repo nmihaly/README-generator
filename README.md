@@ -1,9 +1,6 @@
 <h1 align="center"> README-generator</h1>
 
 
-https://user-images.githubusercontent.com/80426878/122479963-d1598300-cf80-11eb-991c-bc4edc7e3686.mp4
-
-
 ## Description
 Create a README.md using Node.js
 <iframe src="https://drive.google.com/file/d/14MysTD9jLQr9w7FYvXo4ZJnDZwKvYElv/preview" width="640" height="480"></iframe>
