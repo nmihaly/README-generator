@@ -31,6 +31,12 @@ const questions = [
 
     {
         type: 'input',
+        name: 'installation',
+        message: 'What programs were installed for this project? (Required)'
+    },
+
+    {
+        type: 'input',
         name: 'description',
         message: 'Enter a description of the project? (Required)'
     },
@@ -46,19 +52,26 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'Enter usage information? (Required)'
+        message: 'Enter project usage information? (Required)'
     },
 
     {
         type: 'input',
         name: 'contribution',
-        message: 'Enter conbtribution guidelines? (Required)'
+        message: 'Who contributed to the project? (Required)'
+    },
+
+    {
+        type: 'confirm',
+        name: 'test',
+        message: 'Is there a test included?',
+        default: false
     },
 
     {
         type: 'input',
-        name: 'test',
-        message: 'Enter test instructions? (Required)'
+        name: 'questions',
+        message: 'Any questions?'
     },
 
 ];
@@ -80,3 +93,4 @@ function init() {
 
     // Function call to initialize app
     init();
+   
