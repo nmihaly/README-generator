@@ -1,5 +1,5 @@
 
-#<h1 align="center"> README-generator</h1>
+<h1 align="center"> README-generator</h1>
 
 ## Description
 Create a README.md using Node.js
