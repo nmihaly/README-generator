@@ -4,6 +4,8 @@
 ## Description
 Create a README.md using Node.js
 
+https://user-images.githubusercontent.com/80426878/122484874-7a58ab80-cf8a-11eb-82d4-b78b3ec402f6.mp4
+
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
